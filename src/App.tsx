@@ -3,5 +3,9 @@ function App() {
     <h1>My project</h1>
   )
 }
-
-export default App
+function Hellowordl(){
+  return(
+    <h1>Hello World</h1>
+  )
+}
+export {App,Hellowordl} 
